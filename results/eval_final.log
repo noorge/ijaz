@@ -1,0 +1,35 @@
+248 questions | methods ['full', 'none', 'llmlingua2', 'ijaz_learned_5k', 'ijaz_final'] | rates [0.75, 0.5, 0.33] | models ['openai', 'anthropic']
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights:  72%|███████▏  | 144/199 [00:00<00:00, 1345.34it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 1500.83it/s]
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights:  61%|██████    | 121/199 [00:00<00:00, 1118.79it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 1178.95it/s]
+Compressions ready: 2728 contexts
+Model calls to make: 1488 (already done: 5696)
+  50/1488
+  100/1488
+  150/1488
+  200/1488
+  250/1488
+  300/1488
+  350/1488
+  400/1488
+  450/1488
+  500/1488
+  550/1488
+  600/1488
+  650/1488
+  700/1488
+  750/1488
+  800/1488
+  850/1488
+  900/1488
+  950/1488
+  1000/1488
+  1050/1488
+  1100/1488
+  1150/1488
+  1200/1488
+  1250/1488
+  1300/1488
+  1350/1488
+  1400/1488
+  1450/1488
+Done. Results in results/raw.jsonl. Next: python scripts/summarize.py

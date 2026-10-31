@@ -1,0 +1,12 @@
+camel-tools>=1.5
+tiktoken
+python-dotenv
+openai
+anthropic
+matplotlib
+streamlit
+# baselines and optional features
+llmlingua          # LLMLingua-2 baseline
+datasets           # Belebele for the token-tax script
+transformers       # Qwen/ALLaM tokenizers, optional LM scorer
+torch              # optional LM scorer (install the CUDA build for your 3060 Ti)

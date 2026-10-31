@@ -1,0 +1,25 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+1000 passages | teachers ['openai']
+To label: 1000 (already done: 0)
+  50 new labelled (50 total)
+  100 new labelled (100 total)
+  150 new labelled (150 total)
+  200 new labelled (200 total)
+  250 new labelled (250 total)
+  300 new labelled (300 total)
+  350 new labelled (350 total)
+  400 new labelled (400 total)
+  450 new labelled (450 total)
+  500 new labelled (500 total)
+  550 new labelled (550 total)
+  600 new labelled (600 total)
+  650 new labelled (650 total)
+  700 new labelled (700 total)
+  750 new labelled (750 total)
+  800 new labelled (800 total)
+  850 new labelled (850 total)
+  900 new labelled (900 total)
+  950 new labelled (950 total)
+  1000 new labelled (1000 total)
+openai: 1000 ok | deleted L1 25% L2 15% L3 20% | bad spans 18 | violations 3210 | tokens in/out 2617536/241909
+Report: results/teacher_pilot.html

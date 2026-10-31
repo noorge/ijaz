@@ -1,0 +1,6 @@
+tokenizer,arabic_tokens,english_tokens,arabic_premium,passages,source
+GPT o200k_base,39221,28625,1.37,300,belebele
+GPT cl100k_base,86800,28863,3.01,300,belebele
+Qwen2.5,47705,29460,1.62,300,belebele
+ALLaM-7B,30509,31449,0.97,300,belebele
+Claude,11289,4068,2.78,40,belebele
